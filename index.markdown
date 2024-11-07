@@ -21,6 +21,8 @@ This is a stop-frame animation I made with two of my friends. We spent weeks mak
 
 ## Geometric Pattern Reduction Printing
 
+These prints were created using a technique called reduction printing. I carved a printing block in the outline of the pattern I designed, and with each new color I carved away more of the print block, creating a repeating pattern with layered colors. This was one of my first experiences with block printing, and I was inspired by the results of this project to continue to explore the print medium.
+
 <div class="gallery">
   <div class="gallery-item">
     <a href="assets/IMG_7094.jpg" target="_blank">
